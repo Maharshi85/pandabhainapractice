@@ -6,5 +6,6 @@ public class First {
 		System.out.println("Hello Github");
 		//push request by TE
 		//upadted testscript
+		//not "upadted" it's "updated"
 	}
 }
